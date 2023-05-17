@@ -1,1 +1,1 @@
-# fantom_trading_bot_2
+# fantom smart contracts
